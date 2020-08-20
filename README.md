@@ -1,0 +1,1 @@
+# Work-Trend-Analysis-based-on-bicycle-pattern-using-different-regression-models-of-machine-learning-
